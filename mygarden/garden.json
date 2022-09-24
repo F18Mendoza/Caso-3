@@ -1,0 +1,24 @@
+{
+    "jardin": [
+        {
+            "nombre" : "eucalipto",
+            "vida" : 0,
+            "maximos" :{
+                "agua" : 40,
+                "sol" : 20,
+                "abono" : 4,
+                "vidaDias" : 30
+            }
+        },
+        {
+            "nombre" : "girasol",
+            "vida" : 0,
+            "maximos" : {
+                "agua" : 60,
+                "sol" : 50,
+                "abono" : 5,
+                "vidaDias" : 400
+            }
+        }
+    ]
+}
