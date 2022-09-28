@@ -1,25 +1,21 @@
 { 
     "Season": { "Summer" : {
-    "startDate": "8/6/2022",
-    "endDate": "8/9/2022",
+    "duration" : 30,
     "Temperatura" : 40,
     "Precipitacion" : 2,
     "Radiacion Solar" : 8 }, 
 "Spring" : {
-    "startDate": "8/9/2022",
-    "endDate": "8/12/2022",
+    "duration" : 30,
     "Temperatura" : 30,
     "Precipitacion" : 4,
     "Radiacion Solar" : 6 }, 
 "Fall" : {
-    "startDate": "8/12/2022",
-    "endDate": "8/3/2022",
+    "duration" : 30,
     "Temperatura" : 20,
     "Precipitacion" : 6,
     "Radiacion Solar" : 5 },
 "Winter" : {
-    "startDate": "8/3/2022",
-    "endDate": "8/6/2022",
+    "duration" : 30,
     "Temperatura" : 10,
     "Precipitacion" : 8,
     "Radiacion Solar" : 3 }
